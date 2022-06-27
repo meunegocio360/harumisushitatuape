@@ -1,6 +1,5 @@
 {
  "name": "Harumi Sushi Tatuapé - Tour Virtual 360°",
- "background_color": "#FFFFFF",
  "description": "R. Cantagalo, 597 - Tatuapé, São Paulo - SP",
  "display": "fullscreen",
  "icons": [
@@ -40,6 +39,7 @@
    "src": "misc/icon64.png"
   }
  ],
+ "background_color": "#FFFFFF",
  "theme_color": "#FFFFFF",
  "start_url": "index.htm"
 }
